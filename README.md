@@ -1,6 +1,6 @@
 # podaidvac
 This is the READ.ME file of the PODAIDVAC Idea
-Please chek updates of the idea at the wiki page https://github.com/huitemagico/podaidvac
+Please chek updates of the idea at the wiki page https://github.com/huitemagico/podaidvac/wiki 
 
 IDEA: "Process-Oriented DAO with AI Definition and Verification of Acceptance Criteria"
 by HuiteMagico, January 28, 2025
